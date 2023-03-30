@@ -7,7 +7,7 @@ This is my GitHub!
 - 💬 Ask me about ...
 - 📫 How to reach me: [email](mailto:bouvier3@illinois.edu)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am the 2022 Illinois State Champion of triathlon
+- ⚡ Fun fact: I am the 2022 Illinois State Champion of triathlon!
 
 
 <!--
