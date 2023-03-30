@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This is my GitHub!
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [email](bouvier3@illinois.edu)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am the 2022 Illinois State Champion of triathlon
+
+
 <!--
 **Jean-BaptisteBouvier/Jean-BaptisteBouvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
