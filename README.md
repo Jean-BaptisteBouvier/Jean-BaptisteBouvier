@@ -19,9 +19,9 @@ This is my GitHub!
 
 
 
-
+<!--
 ![JB's github stats](https://github-readme-stats.vercel.app/api?username=Jean-BaptisteBouvier&show_icons=true&hide_border=false&count_private=true)
-
+-->
 
 
 
