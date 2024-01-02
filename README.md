@@ -4,7 +4,7 @@ This is my GitHub!
 
 - ⚡ If you are looking for my website, click [here](https://jean-baptistebouvier.github.io/).
 - 🔭 My research papers can be found on [Google Scholar](https://scholar.google.com/citations?user=Ovf-u14AAAAJ&hl=en) and [Orcid](https://orcid.org/my-orcid?orcid=0000-0003-3116-7252).
-- 📫 You can reach me on [LinkedIn](http://www.linkedin.com/in/jean-baptiste-bouvier-4a2599167) and by [email](mailto:bouvier3@illinois.edu).
+- 📫 You can reach me on [LinkedIn](http://www.linkedin.com/in/jean-baptiste-bouvier-4a2599167) and by [email](mailto:bouvier3@berkeley.edu).
 - 😄 Pronouns: he/him
 - 🏊‍♂️ 🚴 🏃‍♂️ Fun fact: I am the 2022 Illinois State Champion of triathlon!
 
